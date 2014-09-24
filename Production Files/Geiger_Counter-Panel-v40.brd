@@ -157,8 +157,6 @@ POWER</text>
 <text x="25.908" y="49.53" size="1.778" layer="21" font="vector" ratio="15" rot="SR270">TX</text>
 <text x="20.828" y="49.53" size="1.778" layer="21" font="vector" ratio="15" rot="SR270">RST</text>
 <text x="33.401" y="49.53" size="1.778" layer="21" font="vector" ratio="15" rot="SR270">5V</text>
-<rectangle x1="103.378" y1="28.829" x2="108.458" y2="31.369" layer="46"/>
-<rectangle x1="103.505" y1="10.287" x2="108.585" y2="12.827" layer="46"/>
 <text x="69.215" y="33.02" size="2.54" layer="21" font="vector" ratio="15">VOLTAGE</text>
 <text x="81.2038" y="35.814" size="2.54" layer="22" font="vector" ratio="15" rot="MR0">HIGH</text>
 <text x="85.1408" y="33.02" size="2.54" layer="22" font="vector" ratio="15" rot="MR0">VOLTAGE</text>
@@ -214,8 +212,6 @@ POWER</text>
 <text x="25.908" y="99.06" size="1.778" layer="21" font="vector" ratio="15" rot="SR270">TX</text>
 <text x="20.828" y="99.06" size="1.778" layer="21" font="vector" ratio="15" rot="SR270">RST</text>
 <text x="33.401" y="99.06" size="1.778" layer="21" font="vector" ratio="15" rot="SR270">5V</text>
-<rectangle x1="103.378" y1="78.359" x2="108.458" y2="80.899" layer="46"/>
-<rectangle x1="103.505" y1="59.817" x2="108.585" y2="62.357" layer="46"/>
 <text x="69.215" y="82.55" size="2.54" layer="21" font="vector" ratio="15">VOLTAGE</text>
 <text x="81.2038" y="85.344" size="2.54" layer="22" font="vector" ratio="15" rot="MR0">HIGH</text>
 <text x="85.1408" y="82.55" size="2.54" layer="22" font="vector" ratio="15" rot="MR0">VOLTAGE</text>
@@ -271,8 +267,6 @@ POWER</text>
 <text x="25.908" y="148.59" size="1.778" layer="21" font="vector" ratio="15" rot="SR270">TX</text>
 <text x="20.828" y="148.59" size="1.778" layer="21" font="vector" ratio="15" rot="SR270">RST</text>
 <text x="33.401" y="148.59" size="1.778" layer="21" font="vector" ratio="15" rot="SR270">5V</text>
-<rectangle x1="103.378" y1="127.889" x2="108.458" y2="130.429" layer="46"/>
-<rectangle x1="103.505" y1="109.347" x2="108.585" y2="111.887" layer="46"/>
 <text x="69.215" y="132.08" size="2.54" layer="21" font="vector" ratio="15">VOLTAGE</text>
 <text x="81.2038" y="134.874" size="2.54" layer="22" font="vector" ratio="15" rot="MR0">HIGH</text>
 <text x="85.1408" y="132.08" size="2.54" layer="22" font="vector" ratio="15" rot="MR0">VOLTAGE</text>
