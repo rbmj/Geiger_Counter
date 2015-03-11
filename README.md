@@ -10,8 +10,19 @@ Repository Contents
 -------------------
 * **/Firmware** - Firmware that ships on the Geiger Counter
 * **/Hardware** - All Eagle design files (.brd, .sch)
+* **/Production** - Test bed files and production panel files
 
+Product Versions
+----------------
+* [SEN-11345](https://www.sparkfun.com/products/11345)- Version 2.1. Current.
+* [SEN-10742](https://www.sparkfun.com/products/retired/10742)- Version 1.2-Retired. 
+
+Version History
+---------------
+* [v12](https://github.com/sparkfun/Geiger_Counter/tree/v12) GitHub version 1.2 files. 
 License Information
 -------------------
-The hardware is released under [Creative Commons Share-alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/).  
-All other code is open source so please feel free to do anything you want with it; you buy me a beer if you use this and we meet someday ([Beerware license](http://en.wikipedia.org/wiki/Beerware)).
+The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+The code is beerware; if you see me (or any other SparkFun employee) at the local, and you've found our code helpful, please buy us a round!
+
+Distributed as-is; no warranty is given.
