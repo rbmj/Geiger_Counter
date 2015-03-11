@@ -20,6 +20,7 @@ Product Versions
 Version History
 ---------------
 * [v12](https://github.com/sparkfun/Geiger_Counter/tree/v12) GitHub version 1.2 files. 
+
 License Information
 -------------------
 The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
