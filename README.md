@@ -19,6 +19,7 @@ Product Versions
 
 Version History
 ---------------
+* [v21](https://github.com/sparkfun/Geiger_Counter/tree/HW_2.1_FW_2.1) GitHub version 2.1 files.
 * [v12](https://github.com/sparkfun/Geiger_Counter/tree/v12) GitHub version 1.2 files. 
 
 License Information
