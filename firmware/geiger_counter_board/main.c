@@ -17,7 +17,14 @@
 
 #define FOSC 8000000
 #define BAUD 9600
-#define MYUBRR 51 
+
+#if BAUD==9600
+#define MYUBRR 51
+#elif BAUD=4800
+#define MYUBRR 103
+#else
+#error BAUD must be 9600 or 4800
+#endif
 
 #define sbi(var, mask)   ((var) |= (uint8_t)(1 << mask))
 #define cbi(var, mask)   ((var) &= (uint8_t)~(1 << mask))
@@ -73,7 +80,7 @@ void ioinit (void)
     DDRC = 0b00110001; //Output on PORTC0, PORTC4 (SDA), PORTC5 (SCL), all others are inputs
     DDRD = 0b11110010; //PORTD (RX on PD0), input on PD2
 	
-    //USART Baud rate: 9600
+    //USART Baud rate: 4800
     UBRR0H = MYUBRR >> 8;
     UBRR0L = MYUBRR;
     UCSR0B = (1<<RXEN0)|(1<<TXEN0);    
