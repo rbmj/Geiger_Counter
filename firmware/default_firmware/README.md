@@ -1,1 +1,0 @@
-This is v12 firmware, which ships on all Geiger Counter boards currently. It is a random number generator. 
